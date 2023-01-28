@@ -3,12 +3,12 @@ A Full Stack React Application with a secure backend token authenticated REST AP
 
 Uses:
 
-React
-Redux/Redux toolkit
-MongoDB (Mongoose)
-jsonwebtoken
-bcryptjs
-Axios
+React,
+Redux/Redux toolkit,
+MongoDB (Mongoose),
+jsonwebtoken,
+bcryptjs,
+Axios,
 react-toastify
 
 
